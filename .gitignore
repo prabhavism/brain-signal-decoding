@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.npz
+*.pth
+*.pt
+*.zip
+.ipynb_checkpoints/
 # Distribution / packaging
 .Python
 build/

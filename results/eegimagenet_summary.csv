@@ -1,0 +1,4 @@
+task,chance,within_participant,LOSO
+all_classes,0.013,0.344,0.013
+coarse,0.025,0.449,0.025
+fine,0.025,0.468,0.025
